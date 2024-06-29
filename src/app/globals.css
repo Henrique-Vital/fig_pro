@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-with-border {
+  -webkit-text-stroke: 1px #fcc26b; /* Safari */
+  text-stroke: 1px #fcc26b; /* Outros navegadores com suporte */
+}
